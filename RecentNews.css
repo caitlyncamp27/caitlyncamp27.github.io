@@ -1,0 +1,45 @@
+h1 {
+font-size: 70px;
+margin: 0 0 20px;
+padding: 10px 0;
+font-weight: normal;
+text-align: center;
+text-shadow: 1px 1px 1px #ccc;
+color: #C62828;
+font-family: 'Poiret One', cursive;
+}     
+    body {
+    background-image: url("images/f.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+    h2{ 
+    margin: 0px 400px 0px 0px;
+    padding: 2px 4px 4px 30px;
+    background: pink;
+    text-align: left;
+    border: 1px solid #ddd;
+    font-family: 'Raleway', sans-serif;
+}   
+    h3{ 
+    font-family: 'Great Vibes', cursive;
+    font-size: 25px;
+    margin-bottom: inherit; 
+             }   
+    img { 
+    margin: 0 auto;
+    height: 400px;
+    width: 500px;
+    display: block;
+    }
+    button {
+    background-color: blueviolet;
+    color: black;
+    font-size: 15px;
+    border-radius: 20px;
+    margin-right: 15px;
+        }
+p {
+    font-family: 'Handlee', cursive; 
+    font-size: 18px;
+}
