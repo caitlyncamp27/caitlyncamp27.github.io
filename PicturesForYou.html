@@ -16,8 +16,15 @@
     }
     p{
     background: rgba(253, 254, 254, .8);
-    background-width: 300px;
+    background-size: 300px;
     }
+    .rotateimg180 {
+  -webkit-transform:rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  transform: rotate(90deg);
+}
     </style>
 </head>
 <body> 
@@ -30,6 +37,6 @@
     <p> Mandisa during the Toby Mac concert. </p>
     <img src="images/Mandisa.jpg" alt = "Mandisa"> 
     <p>The Champions Poster at OHS.</p>
-    <img src="Champions-Poster.JPG" alt = "Champions">
+    <img src="Champions-Poster.JPG" alt = "Champions" class="rotateimg180">
 </body>
 </html>
