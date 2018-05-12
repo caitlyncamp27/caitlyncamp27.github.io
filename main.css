@@ -14,8 +14,8 @@ font-family: 'Poiret One', cursive;
     background-size: cover;
 }
     h2{ 
-    margin: 300px, 100px 300px, 100px;
-    padding: 200px;
+    margin: 300px, 300px 300px, 300px;
+    padding: 10px;
     background: pink;
     text-align: left;
     border: 1px solid #ddd;
